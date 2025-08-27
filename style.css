@@ -1,0 +1,4 @@
+body {
+    /* 应用光标！将 "your-cursor.cur" 替换成你实际的文件名 */
+    cursor: url('cursors/cursor1.cur'), auto;
+}
